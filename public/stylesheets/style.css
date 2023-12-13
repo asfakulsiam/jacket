@@ -159,6 +159,9 @@ header {
     }
 
     /* navbar */
+    .nav-bar {
+        height: 7svh;
+    }
     .nav-bar a {
         margin: 0 .8rem;
     }
