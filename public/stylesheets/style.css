@@ -173,18 +173,21 @@ header {
 
     /* menu */
     .pera-menu {
-        flex-direction: column;
-        flex-wrap: wrap-reverse;
+        flex-direction: row-reverse;
         padding-left: 1.3rem;
+    }
+    .menu {
+        flex: 0 1 30%;
     }
     .menu ul {
         width: 100%;
+        align-self: flex-start;
         list-style: none;
     }
 
 
     /* footer */
     .footer-img {
-        height: 33vh;
+        height: 32vh;
     }
 }
