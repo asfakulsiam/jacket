@@ -166,7 +166,7 @@ header {
     /* HEADER */
     header {
         font-size: 1.3rem;
-        height: 25vh;
+        height: 25svh;
         padding-left: 1rem;
     }
 
@@ -188,6 +188,6 @@ header {
 
     /* footer */
     .footer-img {
-        height: 32vh;
+        height: 32lvh;
     }
 }
